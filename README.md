@@ -1,36 +1,35 @@
-# 👋 Hi, I'm Roja Shrestha
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Roja%20Shrestha&fontSize=42&fontColor=e2e2e2&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20%7C%20ML&descAlignY=58&descColor=888888)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&width=500&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Fusemachines+AI+Fellow+%F0%9F%9A%80;Building+with+Python+%26+Streamlit;Always+learning%2C+always+building+%F0%9F%92%AA)](https://git.io/typing-svg)
+## About Me
 
-I’m not just learning to code. I’m learning to express, to create, and to connect.  
-A tech student with a soft spot for beauty, stories, and the unseen magic in ordinary days.
+- 🎓 BE Computer Engineering @ Acme Engineering College, Kathmandu
+- 🤖 Fusemachines AI Fellow — learning, building, breaking things
+- 🔭 Deep into NLP, LLMs & whatever's trending in AI
+- 🛠️ Python girl — Streamlit, ML, a bit of everything
+- 📫 [Portfolio](https://rojashrestha.github.io/RojaPortfolio/)
 
-💄 I romanticize routines.  
-💻 I write code, but also rewrite myself often.  
-📸 I create content that reflects both mess and meaning.  
-🔮 I believe in intuition just as much as intention.
+## 🛠️ Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌷 What I'm Made Of  
-- 🍳 Cooking that feels like therapy  
-- 📚 Books that feel like home  
-- 💻 Code that feels like possibility  
-- 💄 Beauty that heals, not hides  
-- 🔮 Spirituality that questions & listens  
-- 🎬 A camera that helps me see myself clearer
+## GitHub Stats
 
----
+<p align="center">
+  <a href="https://github.com/rojashrestha">
+ 
+  </a>
 
-## ✨ Currently Exploring
-- Building my **personal portfolio** (HTML, CSS, JS)  
-- Documenting a **30-day camera-facing journey**  
-- Dreaming of a **Tech + Beauty digital storytelling space**
+  &nbsp;&nbsp;
 
----
+  <a href="https://github.com/rojashrestha">
+ 
+    
+  </a>
+</p>
 
-## 🌐 Let’s Be Friends  
-- [Instagram]((https://www.instagram.com/rojashrestha__/)
-
-
-
-
-_This space is raw, real, and always in progress. Just like me._
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rojashrestha&theme=dark&hide_border=true"/>
+</p>

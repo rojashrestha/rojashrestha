@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Roja%20Shrestha&fontSize=42&fontColor=e2e2e2&fontAlignY=38&desc=Computer%20Engineering%20%7C%20AI%20%7C%20ML&descAlignY=58&descColor=888888)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&width=500&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Fusemachines+AI+Fellow+%F0%9F%9A%80;Building+with+Python+%26+Streamlit;Always+learning%2C+always+building+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F46E5&width=500&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;+AI+Fellow+%F0%9F%9A%80;Building+with+Python+%26+Streamlit;Always+learning%2C+always+building+%F0%9F%92%AA)](https://git.io/typing-svg)
 ## About Me
 
 - 🎓 BE Computer Engineering @ Acme Engineering College, Kathmandu
-- 🤖 AI Fellow — learning, building, breaking things
+- 🤖 AI Fellow : learning, building, breaking things
 - 🔭 Deep into NLP, LLMs & whatever's trending in AI
-- 🛠️ Python girl — Streamlit, ML, a bit of everything
+- 🛠️ Python girl : Streamlit, ML, a bit of everything
 - 📫 [Portfolio](https://rojashrestha.github.io/RojaPortfolio/)
 
 ## 🛠️ Tech Stack

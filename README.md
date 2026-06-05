@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 BE Computer Engineering @ Acme Engineering College, Kathmandu
-- 🤖 Fusemachines AI Fellow — learning, building, breaking things
+- 🤖 AI Fellow — learning, building, breaking things
 - 🔭 Deep into NLP, LLMs & whatever's trending in AI
 - 🛠️ Python girl — Streamlit, ML, a bit of everything
 - 📫 [Portfolio](https://rojashrestha.github.io/RojaPortfolio/)
